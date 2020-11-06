@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Im a Java Developer working one various Projekts in my freetime! Im always looking for new chellanges. 
 
