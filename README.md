@@ -1,6 +1,10 @@
 ### Hello there 👋
 
-Im a Java Developer working one various Projekts in my freetime! Im always looking for new challenges. 
+I'm a Java Developer and in my freetime I work on various projects! 
+If you have any challenge, please feel free to contact me. 
+
+Fiverr-Page: https://de.fiverr.com/whitescan
+Discord: Whitescan | Kenneth#2763
 
 Take care! 😄
 
