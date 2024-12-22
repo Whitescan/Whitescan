@@ -3,7 +3,7 @@
 I'm a Java Developer and in my freetime I work on various projects! 
 If you have any challenge, please feel free to contact me. 
 
-Discord: Whitescan | Kenneth#2763
+Discord: whitescan. (make sure to include the .)
 
 Take care! 😄
 
